@@ -1,0 +1,2 @@
+Po celodenních silných deštích byla po celém nádraží voda,  nejvíce byly zasažené podchody, které byly plné až na konec schodiště. Při jednom podchodu jsme dokonce potkali lidi, kteří ve vodních kruzích využívali zaplavené místo jako bazén. Zaplavení tohoto nádraží avšak mělo velký dopad na obyvatele nejen Ostravy, ale i na ty kteří zde byly jen dočasně a nemohli vlakama nikam odjet, jeden pán nám předal svůj názor 
+"No chcel som ist na dovoloenku ku dceri na Slovensko ale tak asi nič".

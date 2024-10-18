@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "0d4c0fb85a85f2d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ce24fcbc678eba8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f02147211962c18a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "ZPI/Redundance a irelevance.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Redundance a irelevance"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "96a1bdad6e9b06a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "cffebe19ecba25d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "486bd7f479bbc160",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d1b5ba73718db9e0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3e99ea229ac4122c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cc9c3206bde890ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "811a5f211f81f091",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08da4a53e0c3b9a6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ZPI/Zpracovani informaci.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Zpracovani informaci"
+            }
+          },
+          {
+            "id": "5de87b6ea9035163",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ZPI/Zpracovani informaci.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Zpracovani informaci"
+            }
+          },
+          {
+            "id": "8678ff1508846914",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "43609407cadd681f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ZPI/Zpracovani informaci.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Zpracovani informaci"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "f02147211962c18a",
+  "lastOpenFiles": [
+    "ZPI/Zavislost mnozstvi informace na pravdepodobnosti vyskytu jevu.md",
+    "OPS-MAD/Jadra.md",
+    "OPS-MAD/Drawing 2024-09-27 12.16.08.excalidraw.md",
+    "ON/Drawing 2024-10-18 10.41.10.excalidraw.md",
+    "ON/Masmedia.md",
+    "CJL - Sloh/Funkční styly.md",
+    "ZPI/Redundance a irelevance.md",
+    "ZPI/Zpracovani informaci.md",
+    "ZPI/Entropie.md",
+    "CJL/Meziválečná  literatura.md",
+    "EKO/Vypocty mezd.md",
+    "OPS-MAD/Proces a vlakno.md",
+    "OPS-MAD/Prepinani kontextu, Planovace OS.md",
+    "OPS-MAD/Operacni system.md",
+    "OPS-MICH/Windows Terminal commands.md",
+    "EKO/Základy ekonomie.md",
+    "remoteaccess",
+    "HW/Analog_Digital.md",
+    "HW/Untitled.md",
+    "Pasted image 20240927122010.png",
+    "Pasted image 20240920100548.png",
+    "ZPI/Redundance a irelevenca.md",
+    "CJL/Generace Buřičů.md",
+    "CJL/Ceska moderna (1895).md",
+    "CJL/Pracovni sesit.md",
+    "CJL/Untitled.canvas",
+    "CJL - Sloh/Uvězněni v Ostravě.md",
+    "HW",
+    "Technicke mereni/Bezpecnost.md",
+    "CIT.md",
+    "Untitled 1",
+    "OPS-MICH",
+    "Untitled 1.md",
+    "CJL - Sloh",
+    "EKO",
+    "CJL",
+    "Technicke mereni",
+    "ZPI",
+    "OPS-MAD",
+    "Untitled.canvas"
+  ]
+}
