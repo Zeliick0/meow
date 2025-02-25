@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "1ce24fcbc678eba8",
+        "id": "33b941852d6765f5",
         "type": "tabs",
         "children": [
           {
-            "id": "f02147211962c18a",
+            "id": "4b1c9ae354267f53",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "ZPI/Redundance a irelevance.md"
+                "file": "Matematika/Posloupnosti.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Redundance a irelevance"
+              "title": "Posloupnosti"
+            }
+          },
+          {
+            "id": "467585cd309f6392",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Matematika/Limita posloupnosti.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Limita posloupnosti"
+            }
+          },
+          {
+            "id": "c3b168874090bdcd",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Matematika/Posloupnosti.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Posloupnosti"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -38,7 +63,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -75,7 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 301
   },
   "right": {
     "id": "cc9c3206bde890ff",
@@ -159,51 +185,50 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f02147211962c18a",
+  "active": "467585cd309f6392",
   "lastOpenFiles": [
-    "ZPI/Zavislost mnozstvi informace na pravdepodobnosti vyskytu jevu.md",
-    "OPS-MAD/Jadra.md",
-    "OPS-MAD/Drawing 2024-09-27 12.16.08.excalidraw.md",
-    "ON/Drawing 2024-10-18 10.41.10.excalidraw.md",
-    "ON/Masmedia.md",
-    "CJL - Sloh/Funkční styly.md",
+    "Matematika/Limita posloupnosti.md",
+    "Matematika/Posloupnosti.md",
+    "EKO/Danee.md",
+    "EKO/Dane s auty.md",
+    "EKO/Akiva_Pasiva.md",
+    "ZPI/Harmonicka analyza signalu.md",
+    "ZPI/Oscilatory.md",
     "ZPI/Redundance a irelevance.md",
-    "ZPI/Zpracovani informaci.md",
-    "ZPI/Entropie.md",
-    "CJL/Meziválečná  literatura.md",
-    "EKO/Vypocty mezd.md",
-    "OPS-MAD/Proces a vlakno.md",
-    "OPS-MAD/Prepinani kontextu, Planovace OS.md",
-    "OPS-MAD/Operacni system.md",
-    "OPS-MICH/Windows Terminal commands.md",
-    "EKO/Základy ekonomie.md",
-    "remoteaccess",
+    "ZPI/Signaly.md",
+    "ZPI/Zavislost mnozstvi informace na pravdepodobnosti vyskytu jevu.md",
+    "ZPI/Digitalizace signalu.md",
+    "HW/ARM - LCD.md",
+    "HW/ARM - LCD - Programming.md",
     "HW/Analog_Digital.md",
-    "HW/Untitled.md",
+    "OPS-MAD/Pridelovani operacni pameti.md",
+    "EKO/Test osobnosti.md",
+    "EKO/Vypocet dani.md",
+    "EKO/Drawing 2025-02-05 11.58.35.excalidraw.md",
+    "ZPI/Kvantovani.md",
+    "HW/ARM - Systick.md",
+    "HW/ARM - Controllers.md",
+    "Untitled.md",
+    "Matematika",
+    "HW/ARM.md",
+    "CJL/Avantgarda.md",
+    "HW/PLD.md",
+    "CJL - Sloh/Knihy.md",
+    "remoteaccess",
     "Pasted image 20240927122010.png",
     "Pasted image 20240920100548.png",
-    "ZPI/Redundance a irelevenca.md",
-    "CJL/Generace Buřičů.md",
-    "CJL/Ceska moderna (1895).md",
-    "CJL/Pracovni sesit.md",
     "CJL/Untitled.canvas",
-    "CJL - Sloh/Uvězněni v Ostravě.md",
     "HW",
-    "Technicke mereni/Bezpecnost.md",
-    "CIT.md",
     "Untitled 1",
     "OPS-MICH",
-    "Untitled 1.md",
     "CJL - Sloh",
     "EKO",
     "CJL",
     "Technicke mereni",
     "ZPI",
-    "OPS-MAD",
     "Untitled.canvas"
   ]
 }

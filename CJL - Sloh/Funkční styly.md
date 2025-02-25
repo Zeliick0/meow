@@ -20,7 +20,7 @@ Druhy:
 	-Informační:
 		- fakta ve věcných souvislostech
 
-	-Vyprávěcí:y
+	-Vyprávěcí:
 		- děj, událost, příběh
 
 	-Popisný:
