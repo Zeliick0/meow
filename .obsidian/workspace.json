@@ -8,43 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4b1c9ae354267f53",
+            "id": "d2c210b425bfef3a",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Matematika/Posloupnosti.md"
+                "file": "CJL/Avantgarda.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Posloupnosti"
-            }
-          },
-          {
-            "id": "467585cd309f6392",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Matematika/Limita posloupnosti.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Limita posloupnosti"
-            }
-          },
-          {
-            "id": "c3b168874090bdcd",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Matematika/Posloupnosti.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Posloupnosti"
+              "title": "Avantgarda"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -188,9 +163,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "467585cd309f6392",
+  "active": "d2c210b425bfef3a",
   "lastOpenFiles": [
     "Matematika/Limita posloupnosti.md",
+    "HW/Analog_Digital.md",
+    "CJL/Avantgarda.md",
+    "OPS-MAD/Zkurvene algoritmy.md",
+    "image.png",
+    "OPS-MAD/Drawing 2025-02-27 12.03.00.excalidraw.md",
+    "OPS-MAD/Pridelovani operacni pameti.md",
+    "OPS-MAD/KS - Pasivni cekani.md",
+    "OPS-MAD/Proces a vlakno.md",
+    "OPS-MAD/Kritická sekce.md",
+    "OPS-MAD/Operacni system.md",
+    "OPS-MAD/KS - Pasivni cekani - semafory.md",
+    "HW/ARM - LCD - Programming.md",
+    "HW/ARM - LCD.md",
+    "HW/ARM - Systick.md",
+    "HW/ARM - Controllers.md",
+    "EKO/Meow.md",
     "Matematika/Posloupnosti.md",
     "EKO/Danee.md",
     "EKO/Dane s auty.md",
@@ -201,22 +192,7 @@
     "ZPI/Signaly.md",
     "ZPI/Zavislost mnozstvi informace na pravdepodobnosti vyskytu jevu.md",
     "ZPI/Digitalizace signalu.md",
-    "HW/ARM - LCD.md",
-    "HW/ARM - LCD - Programming.md",
-    "HW/Analog_Digital.md",
-    "OPS-MAD/Pridelovani operacni pameti.md",
-    "EKO/Test osobnosti.md",
-    "EKO/Vypocet dani.md",
-    "EKO/Drawing 2025-02-05 11.58.35.excalidraw.md",
-    "ZPI/Kvantovani.md",
-    "HW/ARM - Systick.md",
-    "HW/ARM - Controllers.md",
-    "Untitled.md",
     "Matematika",
-    "HW/ARM.md",
-    "CJL/Avantgarda.md",
-    "HW/PLD.md",
-    "CJL - Sloh/Knihy.md",
     "remoteaccess",
     "Pasted image 20240927122010.png",
     "Pasted image 20240920100548.png",
