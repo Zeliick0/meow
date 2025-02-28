@@ -13,13 +13,26 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "CJL/Avantgarda.md"
+                "file": "OPS-MAD/Operacni pamet/Zkurvene algoritmy.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Avantgarda"
+              "title": "Zkurvene algoritmy"
+            }
+          },
+          {
+            "id": "866f966a3342be2e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "OPS-MAD/Operacni pamet/Segmentace.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Segmentace"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -163,35 +176,36 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d2c210b425bfef3a",
+  "active": "866f966a3342be2e",
   "lastOpenFiles": [
+    "OPS-MAD/Operacni pamet/Pridelovani operacni pameti.md",
+    "OPS-MAD/Operacni pamet/Segmentace.md",
+    "OPS-MAD/KS - Pasivni cekani.md",
+    "OPS-MAD/KS - Pasivni cekani - semafory.md",
+    "OPS-MAD/Prepinani kontextu, Planovace OS.md",
+    "OPS-MAD/Operacni pamet",
+    "OPS-MAD/Operacni pamet/Zkurvene algoritmy.md",
+    "Matematika/Posloupnosti.md",
+    "CJL/Ceska moderna (1895).md",
+    "CJL/Avantgarda.md",
     "Matematika/Limita posloupnosti.md",
     "HW/Analog_Digital.md",
-    "CJL/Avantgarda.md",
-    "OPS-MAD/Zkurvene algoritmy.md",
     "image.png",
     "OPS-MAD/Drawing 2025-02-27 12.03.00.excalidraw.md",
-    "OPS-MAD/Pridelovani operacni pameti.md",
-    "OPS-MAD/KS - Pasivni cekani.md",
     "OPS-MAD/Proces a vlakno.md",
     "OPS-MAD/Kritická sekce.md",
     "OPS-MAD/Operacni system.md",
-    "OPS-MAD/KS - Pasivni cekani - semafory.md",
     "HW/ARM - LCD - Programming.md",
     "HW/ARM - LCD.md",
     "HW/ARM - Systick.md",
     "HW/ARM - Controllers.md",
     "EKO/Meow.md",
-    "Matematika/Posloupnosti.md",
     "EKO/Danee.md",
     "EKO/Dane s auty.md",
     "EKO/Akiva_Pasiva.md",
     "ZPI/Harmonicka analyza signalu.md",
     "ZPI/Oscilatory.md",
     "ZPI/Redundance a irelevance.md",
-    "ZPI/Signaly.md",
-    "ZPI/Zavislost mnozstvi informace na pravdepodobnosti vyskytu jevu.md",
-    "ZPI/Digitalizace signalu.md",
     "Matematika",
     "remoteaccess",
     "Pasted image 20240927122010.png",
@@ -204,7 +218,6 @@
     "EKO",
     "CJL",
     "Technicke mereni",
-    "ZPI",
     "Untitled.canvas"
   ]
 }
