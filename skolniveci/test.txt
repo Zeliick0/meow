@@ -1,0 +1,203 @@
+---------------------------------------pripojit1
+<?php
+
+$spojeni = mysqli_connect("localhost","root", "", "db_hov1")
+    or die("Nepodarilo se pripojit k databazi");
+
+mysqli_set_charset($spojeni, "utf8");
+?>
+--------------------------------------pripojit2
+<?php
+
+$spojeni = new mysqli("localhost", "root", "", "db_hov1")
+or die("chyba");
+
+?>
+---------------------------------------vytvoreni
+<?php
+
+include_once "pripojit.php";
+
+$vytvor = "CREATE TABLE IF NOT EXISTS napoje(id_n INT PRIMARY KEY AUTO_INCREMENT, nazev TEXT NOT NULL, cena_kc FLOAT(4.2), barva TEXT)";
+
+$vysledek = mysqli_query($spojeni, $vytvor);
+
+mysqli_close($spojeni);
+?>
+-------------------------------------------pridani
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+    <h1>PŘIDÁVÁNÍ NOVÝCH ZÁZNAMŮ DO DATABÁZOVÉ TABULKY</h1>
+
+    <form action="pridat.php" method="post">
+
+        <label>Nazev caje:<input type="text" name="nazev"></label><br>
+        <label>Cena v kc:<input type="number" name="cena_kc"></label><br>
+        <label>Barva:<input type="text" name="barva"></label><br>
+        <input type="submit" name="pridat">
+
+    </form>
+
+</body>
+</html>
+
+<?php
+
+include_once "pripojit.php";
+
+if ($_POST){
+    if (isset($_POST['pridat'])){
+
+        $nazev = $_POST['nazev'];
+        $cena = $_POST['cena_kc'];
+        $barva = $_POST['barva'];
+
+        $pridat = "insert into napoje(nazev, cena_kc, barva) values('$nazev','$cena','$barva')";
+
+        mysqli_query($spojeni, $pridat)
+            or die("Chyba pri pridavani");
+    }
+}
+
+mysqli_close($spojeni);
+
+?>
+--------------------------------------------------------vypis
+<?php
+
+include_once "pripojit.php";
+
+$vypis = mysqli_query($spojeni, "SELECT * from napoje")
+    or die("Chyba");
+
+echo "<h1>Vypis</h1>";
+
+$pocet = mysqli_num_rows($vypis);
+
+echo "<p>Pocet zaznamu :". $pocet . "</p>";
+
+if ($pocet > 0) {
+
+    echo "<table border='1' cellspacing='0' width='300'>";
+
+    echo "<tr>";
+        echo "<th>ID</th>";
+        echo "<th>Nazev</th>";
+        echo "<th>Cena</th>";
+        echo "<th>Barva</th>";
+    echo "</tr>";
+
+    while ($zaznam = mysqli_fetch_assoc($vypis)){
+        echo "<tr>";
+            echo"<td>" . $zaznam["id_n"] ."</td>";
+            echo"<td>" . $zaznam["nazev"] ."</td>";
+            echo"<td>" . $zaznam["cena_kc"] ."</td>";
+            echo"<td>" . $zaznam["barva"] ."</td>";
+        echo "</tr>";
+    }
+
+    echo "</table>";
+}
+
+mysqli_close($spojeni);
+?>
+---------------------------------------------------------pod. vypis
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+<form method="post" action="podvypis.php">
+
+    <label>Zadejte barvu caje:<input name="barva" type="text"></label>
+    <input type="submit" name="vyhledat">
+
+</form>
+
+</body>
+</html>
+
+<?php
+
+include_once "pripojit.php";
+
+if ($_POST){
+    if(isset($_POST["vyhledat"])){
+
+        $barva = $_POST["barva"];
+
+        $vyhledat = mysqli_query($spojeni,"SELECT * FROM napoje where barva like '$barva'");
+
+        for ($i = 0; $i <= mysqli_num_rows($vyhledat); $i++){
+
+            $zaznam = mysqli_fetch_array($vyhledat);
+
+            $id_n = $zaznam["id_n"];
+            $nazev = $zaznam["nazev"];
+            $cena = $zaznam["cena_kc"];
+            $barva = $zaznam["barva"];
+
+            echo "$id_n|$nazev|$cena|$barva<br>";
+
+        }
+
+    }
+}
+
+?>
+
+------------------------------------------- pod. vypis2
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+    <form action="podvypis.php" method="post">
+
+        <label>Zadejte vysku:<input type="number" name="vyska"></label>
+        <input type="submit" name="vyhledat">
+
+    </form>
+
+</body>
+</html>
+
+<?php
+
+include_once 'pripojit.php';
+
+if($_POST){
+    if(isset($_POST['vyhledat'])){
+
+        $vyska = $_POST['vyska'];
+
+        $vypis = mysqli_query($spojeni,"select * from postavy where vyska=$vyska");
+
+        for ($i=0; $i < mysqli_num_rows($vypis); $i++) {
+
+            $zaznam = mysqli_fetch_array($vypis);
+
+            $id_p = $zaznam["id_p"];
+            $jmeno = $zaznam["jmeno"];
+            $vyska = $zaznam["vyska"];
+
+            echo "$id_p|$jmeno|$vyska cm<br>";
+        }
+
+    }
+
+}else echo "V tabulce nejsou zadne zaznamy";
+mysqli_close($spojeni);
+?>
