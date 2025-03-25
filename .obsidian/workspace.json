@@ -4,19 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "3eea8b414e300d66",
+        "id": "2f6807063c638642",
         "type": "tabs",
         "children": [
           {
-            "id": "8a93d81a33fe10e8",
+            "id": "8d47b131c7811942",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "HW/PLD/PLD.md"
+                "file": "CJL/Směry/Avantgarda/Avantgarda.md"
               },
               "icon": "excalidraw-icon",
-              "title": "PLD"
+              "title": "Avantgarda"
+            }
+          },
+          {
+            "id": "c570648e5087fbb6",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Matematika/Teorie/Posloupnosti.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Posloupnosti"
             }
           }
         ]
@@ -163,18 +175,37 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8a93d81a33fe10e8",
+  "active": "8d47b131c7811942",
   "lastOpenFiles": [
-    "2025-03-18.md",
+    "CJL/Směry/Avantgarda/Avantgardni divadlo.md",
+    "CJL/Směry/Avantgarda/Avantgarda - Ceska.md",
+    "CJL/Směry/Avantgarda/Avantgarda.md",
+    "CJL/Směry/Ceska moderna (1895).md",
+    "Matematika/Teorie/Nekonecne rady.md",
+    "Matematika/Teorie/Posloupnosti.md",
+    "Matematika/Ulohy/Priklady.md",
+    "Matematika/Ulohy/Pracovni list.md",
+    "Matematika/Teorie/Limita posloupnosti.md",
+    "CJL/Směry/Experimentalni proza.md",
+    "CJL/Edison.md",
+    "CJL - Sloh/Knihy.md",
+    "EKO/DPFO.pdf",
+    "ON/Konspiracni teorie.md",
+    "EKO/Dane/DPFO.md",
+    "EKO/Dane/Danee.md",
+    "EKO/Mzdy/Akiva_Pasiva.md",
+    "EKO/Mzdy/Vypocty mezd.md",
+    "CJL/Směry/Avantgarda",
+    "EKO/Základy ekonomie.md",
+    "skolniveci/6. Současná česká společnost.pdf",
+    "skolniveci/Document 4-1.pdf",
     "HW/Sbernice.md",
-    "Untitled.canvas",
     "HW/PLD/PLD.md",
+    "2025-03-18.md",
+    "Untitled.canvas",
     "HW/PLD/CIT.md",
     "HW/PLD/Analog_Digital.md",
     "CJL/Divadlo.md",
-    "skolniveci/6. Současná česká společnost.pdf",
-    "skolniveci/Document 4-1.pdf",
-    "EKO/DPFO.pdf",
     "skolniveci/Přepinání kontextu-1.pdf",
     "skolniveci/Přepinání kontextu.pdf",
     "skolniveci/OPS/04_OPS3_synchronizace_procesu_a_kriticka_sekce.pdf",
@@ -182,26 +213,7 @@
     "skolniveci/HAW",
     "skolniveci/OPS",
     "OPS-MAD/OS a CPU/Jadra.md",
-    "OPS-MAD/OS a CPU/Drawing 2024-09-27 12.16.08.excalidraw.md",
     "OPS-MAD/OS a CPU",
-    "OPS-MAD/OS a CPU/Operacni system.md",
-    "OPS-MAD/OS a CPU/Proces a vlakno.md",
-    "OPS-MAD/Kriticka Sekce/Prepinani kontextu, Planovace OS.md",
-    "Matematika/Teorie/Nekonecne rady.md",
-    "OPS-MAD/Kriticka Sekce",
-    "EKO/Základy ekonomie.md",
-    "EKO/Mzdy/Vypocty mezd.md",
-    "EKO/Mzdy/Akiva_Pasiva.md",
-    "EKO/Test osobnosti.md",
-    "EKO/Dane/Vypocet dani.md",
-    "CJL - Sloh/Funkční styly.md",
-    "EKO/Meow.md",
-    "CJL - Sloh/Administrativni styl.md",
-    "CJL - Sloh/Knihy.md",
-    "CJL - Sloh/Slohove prace/Uvězněni v Ostravě.md",
-    "CJL - Sloh/Slohove prace/Recenze.md",
-    "CJL - Sloh/Slohove prace/Motivacni dopis.md",
-    "CJL/Směry/Zidovsti autori.md",
     "IMGS/Pasted Image 20250314120154_906.png",
     "IMGS/Pasted Image 20250313114814_397.png",
     "IMGS/Pasted Image 20250306090355_197.png",
