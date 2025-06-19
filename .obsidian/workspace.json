@@ -4,31 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "2f6807063c638642",
+        "id": "389632b5c768183e",
         "type": "tabs",
         "children": [
           {
-            "id": "8d47b131c7811942",
+            "id": "91fc7885e2f836d1",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "CJL/Směry/Avantgarda/Avantgarda.md"
+                "file": "HW/PLD/Analog_Digital.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Avantgarda"
-            }
-          },
-          {
-            "id": "c570648e5087fbb6",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Matematika/Teorie/Posloupnosti.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Posloupnosti"
+              "title": "Analog_Digital"
             }
           }
         ]
@@ -175,45 +163,45 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8d47b131c7811942",
+  "active": "486bd7f479bbc160",
   "lastOpenFiles": [
-    "CJL/Směry/Avantgarda/Avantgardni divadlo.md",
-    "CJL/Směry/Avantgarda/Avantgarda - Ceska.md",
-    "CJL/Směry/Avantgarda/Avantgarda.md",
-    "CJL/Směry/Ceska moderna (1895).md",
-    "Matematika/Teorie/Nekonecne rady.md",
-    "Matematika/Teorie/Posloupnosti.md",
-    "Matematika/Ulohy/Priklady.md",
-    "Matematika/Ulohy/Pracovni list.md",
+    "Matematika/Ulohy/Komb.md",
+    "CJL/Směry/Česká meziválečná próza/Psychologická próza/Psychologická próza.md",
+    "CJL/Směry/Česká meziválečná próza/Katolická próza/Katolická próza.md",
+    "CJL/Směry/Česká meziválečná próza/Katolická próza",
+    "CJL/Didakticke testy/Podzim 2017.md",
+    "Matematika/Teorie/Pravdepodobnost.md",
+    "Matematika/Teorie/Kombinatorika s opakovanim.md",
     "Matematika/Teorie/Limita posloupnosti.md",
-    "CJL/Směry/Experimentalni proza.md",
-    "CJL/Edison.md",
-    "CJL - Sloh/Knihy.md",
-    "EKO/DPFO.pdf",
-    "ON/Konspiracni teorie.md",
-    "EKO/Dane/DPFO.md",
-    "EKO/Dane/Danee.md",
-    "EKO/Mzdy/Akiva_Pasiva.md",
-    "EKO/Mzdy/Vypocty mezd.md",
-    "CJL/Směry/Avantgarda",
-    "EKO/Základy ekonomie.md",
-    "skolniveci/6. Současná česká společnost.pdf",
-    "skolniveci/Document 4-1.pdf",
-    "HW/Sbernice.md",
+    "Matematika/Ulohy/Pravdepodobnost.md",
+    "Matematika/Ulohy/Priklady.md",
+    "Matematika/Teorie/Posloupnosti.md",
+    "Matematika/Teorie/Nekonecne rady.md",
+    "Matematika/Teorie/Kombinatorika.md",
+    "OPS-MAD/Raspberry PI.md",
+    "CJL/Směry/Česká meziválečná próza/Demokratická próza/Demokratická próza.md",
+    "CJL/Směry/Česká meziválečná próza/Imaginativní próza/Imaginativní próza.md",
+    "CJL/Směry/Česká meziválečná próza/Legionářská próza/Legionářská próza.md",
+    "CJL/Směry/Česká meziválečná próza/Psychologická próza",
     "HW/PLD/PLD.md",
-    "2025-03-18.md",
-    "Untitled.canvas",
     "HW/PLD/CIT.md",
-    "HW/PLD/Analog_Digital.md",
-    "CJL/Divadlo.md",
-    "skolniveci/Přepinání kontextu-1.pdf",
-    "skolniveci/Přepinání kontextu.pdf",
-    "skolniveci/OPS/04_OPS3_synchronizace_procesu_a_kriticka_sekce.pdf",
+    "HW/ARM/ARM - Systick.md",
+    "HW/USB/USB.md",
+    "OPS-MAD/Kriticka Sekce/KS - Pasivni cekani - semafory.md",
+    "OPS-MAD/Kriticka Sekce/KS - Pasivni cekani.md",
+    "OPS-MAD/Kriticka Sekce/Kritická sekce.md",
     "OPS-MICH/Disk.md",
-    "skolniveci/HAW",
-    "skolniveci/OPS",
-    "OPS-MAD/OS a CPU/Jadra.md",
-    "OPS-MAD/OS a CPU",
+    "OPS-MAD/OS a CPU/Proces a vlakno.md",
+    "OPS-MAD/OS a CPU/Operacni system.md",
+    "CJL/Didakticke testy",
+    "CJL/Směry/Didakticke testy",
+    "HW/USB",
+    "CJL/Směry/Česká meziválečná próza/Demokratická próza",
+    "HW/Prevodniky",
+    "HW/PLD/Untitled",
+    "EKO/Spotrebni dane",
+    "CJL/Směry/Česká meziválečná próza/Imaginativní próza",
+    "Untitled.canvas",
     "IMGS/Pasted Image 20250314120154_906.png",
     "IMGS/Pasted Image 20250313114814_397.png",
     "IMGS/Pasted Image 20250306090355_197.png",

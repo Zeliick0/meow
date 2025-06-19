@@ -1,4 +1,4 @@
-
+ 2q
 Druhy:
 	- Prostěsdělovací: 
 		- každodenní komunikace
